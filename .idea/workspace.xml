@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824b7fe5-cb8c-4bd6-acf0-8b88321b6967" name="Default Changelist" comment="" />
+    <list default="true" id="824b7fe5-cb8c-4bd6-acf0-8b88321b6967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/golang_book/testing/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +41,8 @@
   </component>
   <component name="ProjectId" id="1l92Y1a93ucRgqhItwYZd2Fge7y" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -56,6 +61,35 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestTotal in github.com/shahincsejnu/golang_codes/golang_book/testing">
+    <configuration name="TestTotal in github.com/shahincsejnu/golang_codes/golang_book/testing" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang_codes" />
+      <working_directory value="$PROJECT_DIR$/golang_book/testing" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/shahincsejnu/golang_codes/golang_book/testing" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestTotal\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/shahincsejnu/golang_codes/golang_book/testing" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang_codes" />
+      <working_directory value="$PROJECT_DIR$/golang_book/testing" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/shahincsejnu/golang_codes/golang_book/testing" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestTotal in github.com/shahincsejnu/golang_codes/golang_book/testing" />
+        <item itemvalue="Go Test.go test github.com/shahincsejnu/golang_codes/golang_book/testing" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +116,22 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606996543793" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1607505701388">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607505701388" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1607505701388">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607505701388" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1607505701388">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607505701388" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1607505701388">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607505701388" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1606996550395">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
