@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824b7fe5-cb8c-4bd6-acf0-8b88321b6967" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp_tuto/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp_tuto/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,9 +139,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="777" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607487189193" />
-    <state x="659" y="259" key="search.everywhere.popup" timestamp="1606996105239">
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1607935360412">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="659" y="259" key="search.everywhere.popup/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606996105239" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607935360412" />
   </component>
 </project>
