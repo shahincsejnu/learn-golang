@@ -25,5 +25,11 @@ func main() {
 	//s[0] = 'e'
 	//
 	//fmt.Println(s)
+
+	//defer fmt.Println("start")
+	//defer fmt.Println("middle")
+	//defer fmt.Println("end")
+
+
 }
 
