@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824b7fe5-cb8c-4bd6-acf0-8b88321b6967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/command_line_pflag/command_line_pflag" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command_line_pflag/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command_line_pflag/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/command_line_flag/main" beforeDir="false" afterPath="$PROJECT_DIR$/command_line_flag/main" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testmod" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -115,10 +112,14 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="791" y="486" width="410" height="141" key="#GOROOT/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606996223486" />
-    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606996543793">
+    <state x="791" y="390" width="400" height="334" key="#Go_Modules" timestamp="1608008039383">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606996543793" />
+    <state x="791" y="390" width="400" height="334" key="#Go_Modules/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608008039383" />
+    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608005807970">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608005807970" />
     <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1607517594492">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
