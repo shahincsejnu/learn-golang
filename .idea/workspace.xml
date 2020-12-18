@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824b7fe5-cb8c-4bd6-acf0-8b88321b6967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +54,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_calc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../http-api-server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="go.sdk" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Go Test.TestTotal in github.com/shahincsejnu/golang_codes/golang_book/testing">
     <configuration name="TestTotal in github.com/shahincsejnu/golang_codes/golang_book/testing" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -116,10 +117,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="791" y="390" width="400" height="334" key="#Go_Modules/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608008039383" />
-    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608013441544">
+    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608275470543">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608013441544" />
+    <state x="779" y="314" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608275470543" />
     <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1607517594492">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -136,10 +137,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607517594492" />
-    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1606996550395">
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1608206033549">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606996550395" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608206033549" />
     <state x="777" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607487189193">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
