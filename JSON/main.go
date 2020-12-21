@@ -1,12 +1,13 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 )
 
 type Book struct {
-	Title string
-	Author string
+	Title string `json:"title"`
+	Author string `json:"author"`
 }
 
 func main() {
@@ -21,4 +22,13 @@ func main() {
 
 	fmt.Println(book2)
 
+
+	byteArray, err := json.Marshal(book)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println(string(byteArray))
+	fmt.Println(byteArray)
 }
