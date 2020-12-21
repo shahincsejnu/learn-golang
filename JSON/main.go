@@ -40,7 +40,7 @@ func main() {
 	fmt.Println(string(byteArray))
 	//fmt.Println(byteArray)
 
-	byteArray2, err := json.Marshal(book2)
+	byteArray2, err := json.MarshalIndent(book2, "", "  ")
 
 	if err != nil {
 		fmt.Println(err)
