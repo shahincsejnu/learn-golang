@@ -5,10 +5,6 @@ import(
 	"math"
 )
 
-type shape interface {
-	area() float64
-}
-
 type circle struct {
 	radious float64
 }
@@ -27,15 +23,17 @@ func (c circle) area() float64 {
 }
 
 func main() {
-	c1 := circle{10}
+	c1 := &circle{10}
+	c2 := c1
+	c2.radious = 20
+
 	r1 := rectangle{5, 6}
+	r2 := r1
+	r2.width = 10
 
-	//fmt.Println(c1.area())
-	//fmt.Println(r1.area())
+	fmt.Println(c1.area())
+	fmt.Println(c2.area())
 
-	sh := []shape{c1, r1}
-
-	for _, value := range sh {
-		fmt.Println(value.area())
-	}
+	fmt.Println(r1.area())
+	fmt.Println(r2.area())
 }
