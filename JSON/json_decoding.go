@@ -6,9 +6,9 @@ import (
 )
 
 type SensorReading struct {
-	Name string `json:"name"`
-	Capacity int `json:"capacity"`
-	Time string `json:"time"`
+	Name     string `json:"name"`
+	Capacity int    `json:"capacity"`
+	Time     string `json:"time"`
 }
 
 func main() {

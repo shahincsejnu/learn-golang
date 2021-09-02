@@ -6,30 +6,29 @@ import (
 )
 
 type Book struct {
-	Title string `json:"title"`
+	Title  string `json:"title"`
 	Author Author `json:"author"`
 }
 
 type Author struct {
-	Name string `json:"name"`
-	Age int `json:"age"`
-	Engineer bool `json:"is_engineer"`
+	Name     string `json:"name"`
+	Age      int    `json:"age"`
+	Engineer bool   `json:"is_engineer"`
 }
 
 func main() {
 	fmt.Println("Welcome!")
 
-	author := Author{Name : "shahin", Age : 23, Engineer: true}
+	author := Author{Name: "shahin", Age: 23, Engineer: true}
 
 	book := Book{"Oka", author}
-	book2 := Book{Title : "pera nai chill", Author : author}
+	book2 := Book{Title: "pera nai chill", Author: author}
 
 	fmt.Printf("%+v\n", book)
 	fmt.Printf("%v\n", book)
 	fmt.Println(book)
 
 	fmt.Println(book2)
-
 
 	byteArray, err := json.Marshal(book)
 
